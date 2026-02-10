@@ -64,28 +64,11 @@ http://localhost:5173
 
 ---
 
-##  Project Structure
+## Author
 
-TRUtest/
-├── Images/
-├── public/
-│   ├── HomePage.png
-│   ├── CenterPage.png
-│   ├── HealthPackage.png
-│   └── FormPage.png
-├── src/
-│   ├── Cities/
-│   ├── Components/
-│   ├── Layout/
-│   ├── pages/
-│   ├── App.js
-│   └── main.jsx
-├── README.md
-└── package.json
+Sagar Kasar
+Frontend Developer (React.js)
 
----
-
-```md
 ## Output
 
 ![Home Page](./public/HomePage.png)
