@@ -47,11 +47,13 @@ The project focuses on:
 - “Book Now” modal popup
 - Responsive grid layout
 
+
+
 ---
 ## 🚀 Getting Started
 
 - Navigate to project folder
-```bash
+
 cd TRUtest
 
 - Start developer server
@@ -81,19 +83,12 @@ TRUtest/
 ├── README.md
 └── package.json
 
-
-
 ---
+
+```md
 ## Output
 
-### Home Page
 ![Home Page](./public/HomePage.png)
-
-### Center Page
 ![Center Page](./public/CenterPage.png)
-
-### Healthpackage
-![Dashboard](./public/HealthPackage.png)
-
-### Form Page
-![Dashboard](/.public/FormPage.png)
+![Health Package](./public/HealthPackage.png)
+![Form Package](./public/FormPage.png)
