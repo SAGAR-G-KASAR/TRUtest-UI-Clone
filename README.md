@@ -82,18 +82,18 @@ TRUtest/
 └── package.json
 
 
----
 
-##  Screenshots
+---
+## Output
 
 ### Home Page
-![Home Page](public/HomePage.png)
+![Home Page](./public/HomePage.png)
 
 ### Center Page
-![Center Page](public/CenterPage.png)
+![Center Page](./public/CenterPage.png)
 
 ### Healthpackage
-![Dashboard](public/HealthPackage.png)
+![Dashboard](./public/HealthPackage.png)
 
 ### Form Page
-![Dashboard](public/FormPage.png)
+![Dashboard](/.public/FormPage.png)
